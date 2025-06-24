@@ -1,2 +1,0 @@
-sudo systemctl restart gagbot.service
-journalctl -u gagbot.service -f
