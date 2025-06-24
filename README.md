@@ -1,4 +1,4 @@
-# GagBot - Discord Bot for Stock Monitoring & Community Management
+# Grow A Garden Discord Bot - Stock Monitoring & Community Management
 
 A feature-rich Discord bot designed for monitoring stock data, managing community roles, and providing various utility functions for Discord servers.
 
