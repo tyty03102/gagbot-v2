@@ -32,7 +32,7 @@
 
 ### 🔗 Server Invite Link
 
-[[SCGAGS]](https://discord.gg/9ayhXgGJuN)
+[[SCGAGS]](https://discord.gg/9ayhXgGJuN) // ADMINS UPDATE WITH YOUR OWN SERVER
 
 ---
 
