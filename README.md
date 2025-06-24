@@ -149,7 +149,6 @@ gagbot/
 ├── INVITE_CHALLENGE_README.md  # Invite challenge documentation
 ├── README.md             # This file
 ├── .gitignore            # Git ignore rules
-
 ```
 ## Features in Detail
 
