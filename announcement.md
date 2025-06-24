@@ -1,4 +1,4 @@
-We're excited to announce our brand new **Invite Challenge System**! This feature allows you to compete with other members to see who can invite the most people to our server.
+@everyone  We're excited to announce our brand new **Invite Challenge System**! This feature allows you to compete with other members to see who can invite the most people to our server.
 
 ### 🚀 How It Works
 
@@ -9,27 +9,19 @@ We're excited to announce our brand new **Invite Challenge System**! This featur
 
 ### 📋 Available Commands
 
-**For Everyone:**
 - `/leaderboard` - View current rankings
-- `/joinchallenge` - Join manually (if needed)
-
-**For Admins:**
-- `/invite create` - Start a new challenge
-- `/invite end` - End the challenge and announce winners
-- `/invite status` - View challenge details
 
 ### 🏅 Prizes
 
-- **🥇 1st Place**: [Prize Description]
-- **🥈 2nd Place**: [Prize Description]  
-- **🥉 3rd Place**: [Prize Description]
+- **🥇 1st Place**: 500 Million Sheckles
+- **🥈 2nd Place**: 250 Million Sheckles
+- **🥉 3rd Place**: 50 Million Sheckles
 
 ### ⏰ Challenge Details
 
 - **Duration**: 7 days
-- **Start Date**: [Date]
-- **End Date**: [Date]
-- **Prize**: [Prize Description]
+- **Start Date**: Jun 21
+- **End Date**: Jun 28
 
 ### 🎯 Tips for Success
 
@@ -40,10 +32,10 @@ We're excited to announce our brand new **Invite Challenge System**! This featur
 
 ### 🔗 Server Invite Link
 
-[Your Server Invite Link]
+[[SCGAGS]](https://discord.gg/9ayhXgGJuN)
 
 ---
 
 **Good luck to everyone! May the best inviter win! 🏆**
 
-*This challenge is automatically tracked by our bot. No need to manually register - you're already in!* 
+*This challenge is automatically tracked by our bot. No need to manually register - you're already in!*
