@@ -138,17 +138,17 @@ The bot requires the following permissions:
 
 ```
 gagbot/
-├── gagbot.py          # Main bot file
-├── config.py          # Configuration (gitignored)
-├── config_sample.py   # Sample configuration
-├── requirements.txt   # Python dependencies
-├── calculator.py      # Calculator functionality
-├── scraper.py         # Web scraping utilities
-├── api.py            # API fallback system
-├── invite.py         # Invite challenge system
-├── cmds              # Command definitions
-└── README.md         # This file
-```
+├── gagbot.py              # Main bot file
+├── config_sample.py       # Sample configuration template
+├── requirements.txt       # Python dependencies
+├── calculator.py          # Calculator functionality
+├── scraper.py            # Web scraping utilities
+├── api.py                # API fallback system
+├── invite.py             # Invite challenge system
+├── announcement.md       # Challenge announcements
+├── INVITE_CHALLENGE_README.md  # Invite challenge documentation
+├── README.md             # This file
+├── .gitignore            # Git ignore rules
 
 ## Features in Detail
 
