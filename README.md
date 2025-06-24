@@ -150,6 +150,7 @@ gagbot/
 ├── README.md             # This file
 ├── .gitignore            # Git ignore rules
 
+```
 ## Features in Detail
 
 ### Stock Monitoring System
